@@ -4,7 +4,7 @@ function displaycontent(content) {
 function ac() {
     result.value=""
 }
-function eval(){
+function eval1(){
     result.value=eval(result.value)
 }
 function remove() {
